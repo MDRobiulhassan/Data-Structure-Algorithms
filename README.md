@@ -17,9 +17,8 @@ Welcome to my coding practice repository! This repository contains my solutions 
 
 More topics will be added soon!
 
-##Platforms
+## Platforms
 - **Leetcode**
-- **Geeks for Geeks**
 - **Geeks for Geeks**
 
 ## Folder Structure
