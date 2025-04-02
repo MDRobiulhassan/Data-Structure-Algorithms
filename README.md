@@ -20,6 +20,8 @@ More topics will be added soon!
 ## Platforms
 - **Leetcode**
 - **Geeks for Geeks**
+- Leetcode Handle https://leetcode.com/u/MD_Robiul_Hassan/
+- GFG : https://www.geeksforgeeks.org/user/robiulhasc8r0/
 
 ## Folder Structure
 
