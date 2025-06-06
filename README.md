@@ -14,7 +14,7 @@ Welcome to my coding practice repository! This repository contains my solutions 
 - **Sorting**
 - **Stack**
 - **String**
-- - **Dynamic Programming**
+- **Dynamic Programming**
 
 More topics will be added soon!
 
