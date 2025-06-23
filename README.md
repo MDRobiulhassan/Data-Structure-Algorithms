@@ -15,6 +15,7 @@ Welcome to my coding practice repository! This repository contains my solutions 
 - **Stack**
 - **String**
 - **Dynamic Programming**
+- **Sliding Window and Two Pointer**
 
 More topics will be added soon!
 
