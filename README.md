@@ -16,6 +16,7 @@ Welcome to my coding practice repository! This repository contains my solutions 
 - **String**
 - **Dynamic Programming**
 - **Sliding Window and Two Pointer**
+- **Greedy Algorithm**
 
 More topics will be added soon!
 
