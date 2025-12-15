@@ -17,14 +17,15 @@ Welcome to my coding practice repository! This repository contains my solutions 
 - **Dynamic Programming**
 - **Sliding Window and Two Pointer**
 - **Greedy Algorithm**
+- **Graph**
 
 More topics will be added soon!
 
 ## Platforms
 - **Leetcode**
 - **Geeks for Geeks**
-- Leetcode Handle https://leetcode.com/u/MD_Robiul_Hassan/
-- GFG : https://www.geeksforgeeks.org/user/robiulhasc8r0/
+- Leetcode Handle [https://leetcode.com/u/MD_Robiul_Hassan/](https://leetcode.com/u/MD_Robiul_Hassan/)
+- GFG : [https://www.geeksforgeeks.org/user/robiulhasc8r0/](https://www.geeksforgeeks.org/profile/robiulhassan)
 
 ## Folder Structure
 
