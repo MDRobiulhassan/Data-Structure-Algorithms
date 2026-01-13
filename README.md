@@ -18,6 +18,7 @@ Welcome to my coding practice repository! This repository contains my solutions 
 - **Sliding Window and Two Pointer**
 - **Greedy Algorithm**
 - **Graph**
+- **Binary Tree**
 
 More topics will be added soon!
 
