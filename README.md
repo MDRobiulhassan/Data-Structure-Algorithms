@@ -1,37 +1,44 @@
-# MDRobiulhassan's Coding Practice Repository of Strivers A2Z DSA Course/Sheet
+# Data Structures and Algorithms 
 
-Welcome to my coding practice repository! This repository contains my solutions to various coding problems across different topics. These solutions are part of my preparation for coding interviews and competitive programming challenges.
+This repository contains my **C++ solutions** to a wide range of **Data Structures and Algorithms** problems.  
+The problems are selected based on a structured DSA roadmap commonly used for **interview preparation** and **competitive programming**.
 
-## Topics Covered
 
-- **Array**
-- **Binary Search**
-- **Bit Manipulation**
-- **Linked List**
-- **Number Theory**
-- **Queue**
-- **Recursion**
-- **Sorting**
-- **Stack**
-- **String**
-- **Dynamic Programming**
-- **Sliding Window and Two Pointer**
-- **Greedy Algorithm**
-- **Graph**
-- **Binary Tree**
+---
 
-More topics will be added soon!
+## 📚 Topics Covered
 
-## Platforms
-- **Leetcode**
-- **Geeks for Geeks**
-- Leetcode Handle [https://leetcode.com/u/MD_Robiul_Hassan/](https://leetcode.com/u/MD_Robiul_Hassan/)
-- GFG : [https://www.geeksforgeeks.org/user/robiulhasc8r0/](https://www.geeksforgeeks.org/profile/robiulhassan)
+- Arrays  
+- Binary Search  
+- Bit Manipulation  
+- Linked List  
+- Number Theory  
+- Queue  
+- Recursion  
+- Sorting  
+- Stack  
+- Strings  
+- Dynamic Programming  
+- Sliding Window & Two Pointers  
+- Greedy Algorithms  
+- Graphs  
+- Binary Trees  
 
-## Folder Structure
+More topics will be added over time.
 
-Each folder in this repository corresponds to a specific topic and contains multiple coding problems related to that topic. Inside each folder, you will find:
+---
 
-- Solutions in C++ 
-- Brute force,Better and Best Solution of each problem
+## 💻 Platforms
 
+- **LeetCode:** [MD_Robiul_Hassan](https://leetcode.com/u/MD_Robiul_Hassan/)
+- **GeeksforGeeks:** [robiulhassan](https://www.geeksforgeeks.org/user/robiulhasc8r0/)
+
+
+---
+
+## 📁 Folder Structure
+
+Each folder represents a specific DSA topic and contains:
+- C++ solutions  
+- Brute Force, Optimized, and Best approaches (where applicable)  
+- Well-organized and readable code
