@@ -1,0 +1,55 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+struct TreeNode
+{
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+};
+
+class Solution
+{
+public:
+    vector<int> preorderTraversal(TreeNode *root)
+    {
+        vector<int> preorder;
+        TreeNode *cur = root;
+
+        while (cur)
+        {
+            if (!cur->left)
+            {
+                // If no left child, visit the node
+                preorder.push_back(cur->val);
+                cur = cur->right;
+            }
+            else
+            {
+                // Find the inorder predecessor
+                TreeNode *pre = cur->left;
+                while (pre->right && pre->right != cur)
+                {
+                    pre = pre->right;
+                }
+
+                if (!pre->right)
+                {
+                    // Create thread AND visit before going left (pre-order!)
+                    preorder.push_back(cur->val);
+                    pre->right = cur;
+                    cur = cur->left;
+                }
+                else
+                {
+                    // Remove the thread
+                    pre->right = nullptr;
+                    cur = cur->right;
+                }
+            }
+        }
+
+        return preorder;
+    }
+};
