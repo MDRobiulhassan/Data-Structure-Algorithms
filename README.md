@@ -22,7 +22,8 @@ The problems are selected based on a structured DSA roadmap commonly used for **
 - Sliding Window & Two Pointers  
 - Greedy Algorithms  
 - Graphs  
-- Binary Trees  
+- Binary Tree
+- Binary Search Tree
 
 More topics will be added over time.
 
