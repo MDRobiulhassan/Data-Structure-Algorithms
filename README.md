@@ -27,7 +27,7 @@ The problems are selected based on a structured DSA roadmap commonly used for **
 - Trie
 ---
 
-## 💻 Platforms
+##  Platforms
 
 - **LeetCode:** [MD_Robiul_Hassan](https://leetcode.com/u/MD_Robiul_Hassan/)
 - **GeeksforGeeks:** [robiulhassan](https://www.geeksforgeeks.org/user/robiulhasc8r0/)
