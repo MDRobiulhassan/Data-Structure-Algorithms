@@ -6,7 +6,7 @@ The problems are selected based on a structured DSA roadmap commonly used for **
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Arrays  
 - Binary Search  
@@ -24,9 +24,7 @@ The problems are selected based on a structured DSA roadmap commonly used for **
 - Graphs  
 - Binary Tree
 - Binary Search Tree
-
-More topics will be added over time.
-
+- Trie
 ---
 
 ## 💻 Platforms
@@ -37,7 +35,7 @@ More topics will be added over time.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 Each folder represents a specific DSA topic and contains:
 - C++ solutions  
