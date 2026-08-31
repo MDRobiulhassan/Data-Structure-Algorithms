@@ -1,0 +1,6 @@
+*.exe
+tempCodeRunnerFile.cpp
+~$*
+*.tmp
+.vscode/
+configcpp.txt
