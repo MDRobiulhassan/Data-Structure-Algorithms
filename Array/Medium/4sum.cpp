@@ -28,6 +28,8 @@ public:
                 {
                     // Use long long to avoid overflow
                     long long sum = (long long)nums[i] + nums[j] + nums[k] + nums[l];
+                    // Alternatively, we can use the following line to avoid overflow:
+                    // long long sum = 1LL * nums[i] + nums[j] + nums[k] + nums[l];
 
                     if (sum < target)
                         k++;
