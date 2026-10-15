@@ -35,23 +35,3 @@ public:
         return len;
     }
 };
-
-//{ Driver Code Starts.
-
-// Driver program
-int main()
-{
-    int t, n, i, a[100001];
-    cin >> t;
-    while (t--)
-    {
-        cin >> n;
-        for (i = 0; i < n; i++)
-            cin >> a[i];
-        Solution obj;
-        cout << obj.findLongestConseqSubseq(a, n) << endl;
-    }
-
-    return 0;
-}
-// } Driver Code Ends

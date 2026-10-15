@@ -12,25 +12,3 @@ public:
         std::reverse(a.begin(), a.begin() + k);
     }
 };
-
-int main() {
-    Solution solution;
-    std::vector<int> a = {1, 2, 3, 4, 5, 6, 7};
-    int k = 3;
-
-    std::cout << "Original array: ";
-    for (int num : a) {
-        std::cout << num << " ";
-    }
-    std::cout << std::endl;
-
-    solution.rotate(a, k);
-
-    std::cout << "Rotated array: ";
-    for (int num : a) {
-        std::cout << num << " ";
-    }
-    std::cout << std::endl;
-
-    return 0;
-}

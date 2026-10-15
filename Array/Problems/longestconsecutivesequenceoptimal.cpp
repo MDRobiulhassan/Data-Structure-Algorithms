@@ -36,11 +36,3 @@ int longestSuccessiveElements(vector<int> &a)
     }
     return longest;
 }
-
-int main()
-{
-    vector<int> a = {100, 200, 1, 2, 3, 4};
-    int ans = longestSuccessiveElements(a);
-    cout << "The longest consecutive sequence is " << ans << "\n";
-    return 0;
-}

@@ -37,24 +37,3 @@ public:
         return maxlen; // Return the maximum length of the subarray with sum K
     }
 };
-
-int main()
-{
-    // Code to test the lenOfLongSubarr function
-    int t;
-    cin >> t; // Number of test cases
-    while (t--)
-    {
-        int n, k;
-        cin >> n >> k; // Size of the array and the sum K
-        int a[n];
-
-        for (int i = 0; i < n; i++)
-            cin >> a[i]; // Input the array elements
-
-        Solution ob;
-        cout << ob.lenOfLongSubarr(a, n, k) << endl; // Output the result for each test case
-    }
-
-    return 0;
-}
